@@ -1,0 +1,176 @@
+[
+  {
+    "id": "1",
+    "recipeName": "Spaghetti Carbonara",
+    "category": "Main Course",
+    "ingredients": ["2 cups flour", "1 tsp salt", "1 cup water"],
+    "instructions": [
+      "Prepare the dry mixture:\nIn a large mixing bowl",
+      "combine 2 cups of flour and 1 teaspoon of salt. Mix thoroughly to evenly distribute the salt throughout the flour.\n\nForm the dough:\nSlowly pour in about 1 cup of water",
+      "a little at a time",
+      "while stirring the mixture with your hand or a wooden spoon. Continue adding water gradually until a rough dough starts to form.\n\nKnead the dough:\nTransfer the dough onto a clean",
+      "lightly floured surface. Knead the dough by pressing and folding it for about 8–10 minutes",
+      "until it becomes smooth and elastic. If the dough feels too sticky",
+      "sprinkle a little extra flour as needed.\n\nRest the dough:\nForm the dough into a ball",
+      "cover it with a clean kitchen towel or plastic wrap",
+      "and let it rest for about 30 minutes. This helps the gluten relax and makes the dough easier to roll out.\n\nRoll and shape:\nAfter resting",
+      "divide the dough into smaller pieces. Roll out each piece with a rolling pin or pasta machine to your desired thickness. Then cut into thin strips to make spaghetti noodles.\n\nCook the pasta:\nBring a large pot of salted water to a boil. Add the fresh spaghetti and cook for about 2–4 minutes",
+      "or until the pasta floats and is tender but still slightly firm (al dente).\n\nServe:\nDrain the cooked pasta and immediately toss it with your favorite Carbonara sauce or any sauce of your choice. Serve hot and enjoy!"
+    ],
+    "time": "25",
+    "servings": "4",
+    "diet": "Vegan",
+    "image": "https://images.pexels.com/photos/2703468/pexels-photo-2703468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "2",
+    "recipeName": "Chicken Tikka Masala",
+    "category": "Main Course",
+    "ingredients": ["200g chicken", "1 tbsp tikka masala", "1/2 cup yogurt"],
+    "instructions": [
+      "Marinate the chicken:\nIn a medium bowl",
+      "combine the chicken pieces with the tikka masala spice mix and yogurt. Stir well until all the chicken is evenly coated.\nCover the bowl and let the chicken marinate for at least 30 minutes (or overnight in the fridge for deeper flavor).\n\nCook the chicken:\nHeat a non-stick pan over medium heat.\nAdd the marinated chicken pieces to the pan.\nCook for about 6–8 minutes",
+      "stirring occasionally",
+      "until the chicken is fully cooked and slightly browned on the outside.\n\nAdd the sauce (optional):\nOnce the chicken is cooked",
+      "you can add extra tikka masala sauce (store-bought or homemade) into the pan.\nSimmer everything together for another 3–5 minutes until the sauce is hot and slightly thickened.\n\nServe:\nRemove from heat.\nServe hot with rice",
+      "naan",
+      "or salad."
+    ],
+    "time": "50",
+    "servings": "4",
+    "diet": "Non",
+    "image": "https://www.seriouseats.com/thmb/AKv7r-Xt2anoVvsn0WpLqUehNzU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG"
+  },
+  {
+    "id": "3",
+    "recipeName": "Greek Salad",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 cucumber",
+      "1 tomatoes",
+      "1/3 red onion",
+      "olives",
+      "basil"
+    ],
+    "instructions": [
+      "Chop vegetables",
+      "Add olives and basil",
+      "Drizzle with olive oil"
+    ],
+    "time": "10",
+    "servings": "2",
+    "diet": "Vegan",
+    "image": "https://www.beautybites.org/wp-content/uploads/2017/07/detox-salad-IMG_1263.jpg"
+  },
+  {
+    "id": "4",
+   "recipeName": "Pancakes with Berries",
+    "category": "Breakfast",
+    "ingredients": ["2 cups flour", "1 egg", "Milk", "Berries", "Maple syrup"],
+    "instructions": [
+      "Mix ingredients",
+      "Cook on griddle",
+      "Serve with berries and syrup"
+    ],
+    "time": "50",
+    "servings": "2",
+    "diet": "Vegetarian",
+    "image": "https://www.allrecipes.com/thmb/ecb0XKvcrE7OyxBLX3OVEd30TbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/686460-todds-famous-blueberry-pancakes-Dianne-1x1-1-9bd040b975634bce884847ce2090de16.jpg"
+  },
+  {
+    "id": "5",
+    "recipeName": "Tofu Vegetable Stir Fry with Pasta",
+    "category": "Main Course",
+    "ingredients": [
+      "Tofu (firm, cubed)",
+      "Broccoli",
+      "Carrots",
+      "Bell peppers",
+      "Soy sauce",
+      "Garlic",
+      "Pasta (spaghetti or noodles)"
+    ],
+    "instructions": [
+      "Cook the pasta and set aside",
+      "Chop vegetables and tofu",
+      "Stir fry tofu until golden",
+      "Add vegetables and cook until tender-crisp",
+      "Add cooked pasta and soy sauce, toss well"
+    ],
+    "time": 35,
+    "servings": 3,
+    "diet": "🌱 Vegan",
+    "image": "https://farahjeats.com/wp-content/uploads/2022/07/IMG_7854-768x1024.jpg"
+  },
+  {
+    "id": "6",
+    "recipeName": "Grilled Salmon",
+    "category": "Main Course",
+    "ingredients": ["1 salmon fillet", "Lemon", "Olive oil", "Salt", "Pepper"],
+    "instructions": [
+      "Season salmon",
+      "Grill 5 mins each side",
+      "Serve with lemon"
+    ],
+    "time": "40",
+    "servings": "1",
+    "diet": "Pescatarian",
+    "image": "https://images.pexels.com/photos/29748127/pexels-photo-29748127/free-photo-of-delicious-grilled-salmon-with-vegetables.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "7",
+    "recipeName": "Chicken Caesar Wrap",
+    "category": "Snack",
+    "ingredients": [
+      "2 tortillas",
+      "Grilled chicken",
+      "Lettuce",
+      "Caesar dressing"
+    ],
+    "instructions": [
+      "Grill chicken",
+      "Wrap with lettuce and dressing in tortilla"
+    ],
+    "time": 24,
+    "servings": 1,
+    "diet": "❌ Not vegetarian, not vegan",
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg"
+  },
+  {
+    "id": "8",
+    "recipeName": "Mushroom Risotto",
+    "category": "Main Course",
+    "ingredients": ["Arborio rice", "Vegetable broth", "Mushrooms", "Parmesan"],
+    "instructions": [
+      "Cook rice with broth",
+      "Add mushrooms",
+      "Top with parmesan"
+    ],
+    "time": 36,
+    "servings": 3,
+    "diet": "🥦🥕 Vegetarian",
+    "image": "https://images.pexels.com/photos/11190138/pexels-photo-11190138.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": "9",
+    "recipeName": "Beef Stroganoff",
+    "category": "Main Course",
+    "ingredients": ["300g beef", "1 onion", "200g mushrooms", "1 cup cream"],
+    "instructions": ["Saute onion and beef", "Add mushrooms", "Stir in cream"],
+    "time": 37,
+    "servings": 2,
+    "diet": "❌ Not vegetarian, not vegan",
+    "image": "https://www.allrecipes.com/thmb/EA78yfJfcZgPgaXikJzs3j1dHHc=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/25202beef-stroganoff-iii-ddmfs-3x4-233-0f26fa477e9c446b970a32502468efc6.jpg"
+  },
+  {
+    "id": "10",
+    "recipeName": "Guacamole",
+    "category": "Appetizer",
+    "ingredients": ["2 avocados", "1 lime", "Salt", "Tomato", "Onion"],
+    "instructions": ["Mash avocados", "Add other ingredients", "Mix well"],
+    "time": "5",
+    "servings": "2",
+    "diet": "Vegan",
+    "image": "https://californiaavocado.com/wp-content/uploads/2020/07/Guacamole-Autentico-1.jpeg"
+  }
+]
